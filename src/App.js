@@ -15,7 +15,7 @@ function App() {
   ])
 
   const [about,setAbout] = useState([
-    {id: '1', title:'About party', subText:'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.', img:'./assets/Party logo.png' },
+    {id: '1', title:'About party', subText:'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.', img:'https://raw.githubusercontent.com/DravenRedgrave/halloween-react/main/src/assets/Party logo.png' },
   ])
 
   const [sponsor,setSponsor] = useState([
